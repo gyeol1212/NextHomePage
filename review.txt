@@ -1,0 +1,4 @@
+$ rm *
+$ rmdir directory
+$ mv old.txt new.txt
+

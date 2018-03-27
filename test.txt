@@ -1,1 +1,9 @@
-fsdffafafdaasfasdfsfa
+git add
+git status
+git commit -m ""
+git log 
+git checkout --file
+git reset --hard address
+git remote add origin address
+git remote add -v 
+git push origin master
